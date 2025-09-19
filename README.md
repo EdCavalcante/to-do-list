@@ -2,7 +2,8 @@
 
 Um projeto de **lista de tarefas** desenvolvido com **HTML, CSS e JavaScript**.  
 Criado como parte da minha meta de desenvolver **1 projeto por semana** para praticar teoria e habilidades de programação.
-
+📸 **Preview:**  
+![preview](./screenshot.png.png) 
 ---
 
 ## 🚀 Funcionalidades
@@ -19,8 +20,7 @@ Criado como parte da minha meta de desenvolver **1 projeto por semana** para pra
 - Fonte: [Pixelify Sans](https://fonts.google.com/specimen/Pixelify+Sans)  
 - Interface minimalista com toque de pixel art
 
-📸 **Preview:**  
-![preview](./screenshot.png.png) 
+
 
 ---
 
