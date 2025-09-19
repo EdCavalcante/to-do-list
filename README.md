@@ -20,7 +20,7 @@ Criado como parte da minha meta de desenvolver **1 projeto por semana** para pra
 - Interface minimalista com toque de pixel art
 
 📸 **Preview:**  
-![preview](./screenshot.png) 
+![preview](./screenshot.png.png) 
 
 ---
 
